@@ -1,1 +1,2 @@
 argoproj/argoexec:v3.5.5
+registry:2.6.2
