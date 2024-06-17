@@ -1,1 +1,10 @@
 busybox:1.28
+argoproj/argoexec:v3.5.5
+registry:2.6.2
+searxng/searxng:latest
+ghcr.io/keptn/certificate-operator:v2.2.0
+ghcr.io/keptn/lifecycle-operator:v1.0.0
+ghcr.io/keptn/scheduler:v1.0.0
+ghcr.io/keptn/metrics-operator:v1.0.1
+ipfs/kubo:release
+ipfs/ipfs-cluster:latest
