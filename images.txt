@@ -1,1 +1,1 @@
-ipfs/ipfs-cluster:latest
+registry.k8s.io/hpa-example
