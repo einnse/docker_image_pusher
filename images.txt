@@ -1,1 +1,4 @@
-percona/pmm-server:2
+clickhouse-server:23.8.2.7-alpine
+victoriametrics/victoria-metrics:v1.93.4
+postgres:14
+haproxy:2.4.2-alpine
